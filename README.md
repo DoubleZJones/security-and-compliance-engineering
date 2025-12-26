@@ -65,3 +65,19 @@ Built an Entra application that allows Splunk to securely access Microsoft 365 m
 ### Microsoft Bookings Deployment  
 **Summary:**  
 Collaborated with a customer to design and deploy a Microsoft Bookings solution. Created a shared mailbox, configured delegate permissions, and established a centralized workflow for handling appointment requests.
+
+---
+
+## 7. Deployment of DLP Policies and Sensitivity Labels
+**Summary:**  
+Tested, configured, and deployed Microsoft 365 Data Loss Prevention policies and Sensitivity Labels across multiple environments. Ensured policies aligned with organizational data-handling requirements and supported secure collaboration.
+
+**Key Actions:**  
+- Evaluated existing data flows and risk points.  
+- Implemented DLP rules for email, SharePoint, and Teams.  
+- Published Sensitivity Labels with appropriate encryption and access controls.  
+- Validated policy behavior with test users and real workflows.  
+- Provided guidance to staff on proper usage.
+
+**Impact:**  
+Strengthened data protection posture and reduced the risk of accidental or unauthorized data exposure.
